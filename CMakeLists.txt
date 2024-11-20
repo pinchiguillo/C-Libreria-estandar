@@ -5,4 +5,8 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Libreria_estandar
         Ejercicio0/main.c)
-add_executable(Ejercicio1 Ejercicio1/main.c)
+add_executable(Ejercicio1
+        Ejercicio1/main.c)
+
+add_executable(Ejercicio2
+        Ejercicio2/main.c)
