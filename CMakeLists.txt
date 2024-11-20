@@ -4,4 +4,5 @@ project(C_Libreria_estandar C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Libreria_estandar
-    main.c)
+        Ejercicio0/main.c)
+add_executable(Ejercicio1 Ejercicio1/main.c)
